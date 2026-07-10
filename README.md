@@ -1,15 +1,14 @@
 <!--
-  GitHub profile README for anvarovali. The neofetch card is profile.svg,
-  which renders colors EVERYWHERE (VS Code preview, github.com, gists).
-  Keep profile.svg next to this file. Edit values by re-running generate.py
-  or tweaking the <tspan> text inside profile.svg.
+  GitHub profile README for anvarovali. Card is profile.svg (renders colors
+  everywhere). Portrait uses a small font so it resolves into a face at page size;
+  the neofetch panel uses a larger font so it stays readable. Keep profile.svg here.
 -->
 
 <h2 align="center">Hi, I'm Aliakbar 👋</h2>
 <p align="center"><i>50% coding, 50% fixing what worked yesterday.</i></p>
 
 <p align="center">
-  <img src="profile.svg" alt="Aliakbar Anvarov — neofetch-style GitHub profile" width="900">
+  <img src="profile.svg" alt="Aliakbar Anvarov — neofetch-style GitHub profile" width="880">
 </p>
 
 <p align="center">
